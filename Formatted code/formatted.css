@@ -1285,7 +1285,7 @@ noscript{
 #backtotopbutton{
     
     position: fixed;
-    right: 10px;
+    left: 10px;
     bottom: 0px;
     display: flex;
     flex-direction: column;
